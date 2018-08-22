@@ -1,3 +1,6 @@
+# Note
+This is an experimental fork to see if I can get this to work for a Rails 3.2 project that uses MiniTest 5.
+
 
 <img src="http://cdn.metaskills.net/minitest-spec-rails.png" width="233" height="154" />
 
